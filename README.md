@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am Anastasios, frontend developer based in Tbilisi, Georgia.
+I am Anastasios, sofrware developer based in Tbilisi, Georgia.
 
 📫 Reach me out at anastas3993@gmail.com
 
