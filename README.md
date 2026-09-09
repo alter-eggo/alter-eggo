@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am Anastasios, software developer based in Tbilisi, Georgia.
+I am Anastasios, software developer based in Chicago, USA.
 
 📫 Reach me out at anastas3993@gmail.com
 
